@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.tetris",
+  "appName": "Тетрис",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
