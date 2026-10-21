@@ -1,6 +1,6 @@
 {
-  "appId": "com.example.tetris",
-  "appName": "Тетрис",
+  "appId": "com.example.arkada",
+  "appName": "Аркада",
   "webDir": "www",
   "bundledWebRuntime": false
 }
